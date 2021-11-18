@@ -2,7 +2,7 @@
     "title": "$:/plugins/EvidentlyCube/AutoCloseTags",
     "version": "0.0.5",
     "core-version": ">=5.2.0",
-    "description": "Automaticawlly closes open HTML tag when you type '>'",
+    "description": "Automatically closes open HTML tag when you type '>'",
     "author": "Maurycy Zarzycki",
     "source": "https://github.com/EvidentlyCube/TW5-AutoCloseTags",
     "plugin-type": "plugin",
