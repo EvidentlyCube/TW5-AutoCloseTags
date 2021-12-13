@@ -6,6 +6,7 @@ This plugin will automatically close HTML tags when typing. Please note it does 
 * Does not trigger for `<<macroCalls>>`.
 * Does not trigger for `<self-closed/>` tags.
 * Does not trigger for empty `<>` tags.
+* Does not trigger for elements: `<br>`, `<input>`, `<hr>` and `<img>`
 
 It's not smart enough to know if you're currently typing inside a filter, but all it takes is hitting undo to remove the inserted closing tag when it happens to be overzealous.
 
