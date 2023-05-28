@@ -1,5 +1,7 @@
 # Auto Close Tags [TiddlyWiki5 Plugin]
 
+> :warning: **This repository has been moved**: To make development easier this plugin's code was moved to [EvidentlyCube/TW5-PluginShowcase](https://github.com/EvidentlyCube/TW5-PluginShowcase/tree/main), specifically [here](https://github.com/EvidentlyCube/TW5-PluginShowcase/tree/main/plugins/EvidentlyCube/TW5-AutoCloseTags) .
+
 This plugin will automatically close HTML tags when typing. Please note it does not work with Code mirror!
 
 * Works with `<$widgets>`.
